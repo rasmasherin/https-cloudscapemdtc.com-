@@ -25,6 +25,7 @@
         padding: 28px;     /* ⬅ reduced padding */
         box-shadow: 0 8px 22px rgba(0,0,0,0.08);
     }
+    /* lll */
 
     .form-group {
         margin-bottom: 18px; /* ⬅ tighter spacing */
